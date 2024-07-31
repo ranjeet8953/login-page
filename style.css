@@ -1,0 +1,91 @@
+body {
+    background-image: url('view-spectacular-nature-landscape.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh; /* Optional: Takes the full height of the viewport */
+    margin: 0; /* Optional: Removes any margin */
+    font-family: 'roboto' , sans-serif;
+ color: white;
+  }
+
+  .signup-box{
+    width: 360px;
+    height: 620px;
+    margin: auto;
+    background-color: rgb(192, 249, 58);
+    border-radius: 5px;
+    align-items: center;
+  }
+
+  .login-box{
+    width: 360px;
+    height: 280px;
+    margin: auto;
+    border-radius: 3px;
+    background-color: white;
+    color: white;
+    border-radius: 50px;
+  }
+
+  h1{
+    text-align: center;
+    padding-top: 15px;
+    color: whitesmoke;
+
+  }
+
+  h4{
+    text-align: center;
+    color: aliceblue;
+  }
+
+  form{
+    width: 20px;
+    margin-left: 40%;
+    color: rgb(145, 255, 1);
+    border-radius: 50px;
+  }
+
+  form label{
+    display: flex;
+    margine-top: 18px;
+    font-size: 18px;
+    
+  }
+
+  input[type="button"]{
+    width: 900%;
+    height: 40px;
+    margin-top: 20px;
+    border: none;
+    background-color: #d9f176;
+    font-size: 20px;
+    color: whitesmoke;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+p{
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+    font-size: 15px;
+}
+
+.pare-2{
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    margin-top: -10px;
+}
+
+p a{
+    
+    color: rgb(234, 124, 40);
+    font-size: large;
+    
+}
+ 
+.a{
+    color: white;
+}
